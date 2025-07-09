@@ -1,5 +1,10 @@
 How to Access Pogo My Account Sign In: A Simple Walkthrough
 ============================================================
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Pogo Page</a>
+   </div>
 
 If you're an avid online gamer, chances are you've spent time on Pogo.com—one of the most popular platforms for free online games like Solitaire, Mahjong, and Word Whomp. But to access personalized features, game progress, tokens, and friend lists, you’ll need to go through the **Pogo my account sign in** process. Whether you're a long-time member or a newcomer, knowing how to navigate the **Pogo my account sign in** page is essential.
 
