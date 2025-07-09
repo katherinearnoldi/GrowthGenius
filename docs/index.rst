@@ -5,8 +5,6 @@ If you're an avid online gamer, chances are you've spent time on Pogo.com—one 
 
 This walkthrough will guide you step-by-step through the **Pogo my account sign in** process. Whether you’re using a computer, tablet, or mobile device, accessing your account doesn’t have to be a hassle. We'll also show you how to recover your account, secure it, and troubleshoot login issues.
 
----
-
 Why You Need to Use Pogo My Account Sign In
 --------------------------------------------
 
